@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "titles": {
+      "movies": "Movies",
+      "tvshows": "TV Shows"
+    },
+    "category": {
+      "movies": "Movies",
+      "tvshows": "TV Shows"
+    }
+  },
+  "hero": {
+    "welcome": "Welcome to",
+    "welcome2": "Ka Movies",
+    "description": "Millions of movies, TV shows and people to discover. Explore now.",
+    "placeholder": "Search for a movie or tv show...",
+    "button": "Search"
+  },
+  "homeTitle": {
+    "trending": "Trending",
+    "popular": "What's Popular",
+    "toprated": "Top Rated"
+  },
+  "footer": {
+    "titles": {
+      "aboutCompany": "About Company",
+      "links": "Links",
+      "socialMedia": "SocialMedia"
+    },
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio, atque enim, voluptate libero delectus ducimus minus soluta quidem porro suscipit consequatur nemo aliquid officiis possimus velit eius perferendis deleniti quasi excepturi asperiores maiores, et doloribus accusantium. Iste deserunt voluptate corrupti?",
+    "links": {
+      "terms": "Terms Of Use",
+      "privacyPolicy": "Privacy Policy",
+      "about": "About",
+      "blog": "Blog",
+      "faq": "FAQ"
+    },
+    "copyRight": {
+      "year": "2023 ©",
+      "name": "Kamyar Gharibi.",
+      "text": "All Rights Reserved."
+    }
+  },
+  "detailsPage": {
+    "watchTrailer": "Watch Trailer",
+    "overview": "Overview:",
+    "language": "Language:",
+    "production": "Production Countries:",
+    "director": "Director:",
+    "writer": "Writer:",
+    "status": "Status:",
+    "releaseDate": "Release Date:",
+    "runtime": "Runtime:",
+    "topcast": "Top Cast",
+    "similar": "Similar Movies",
+    "NotAvailable": "Not available"
+  },
+  "sortByData": {
+    "PopularityDescending": "Popularity Descending",
+    "PopularityAscending": "Popularity Ascending",
+    "RatingDescending": "Rating Descending",
+    "RatingAscending": "Rating Ascending",
+    "ReleaseDateDescending": "Release Date Descending",
+    "ReleaseDateAscending": "Release Date Ascending",
+    "Title": "Title (A-Z)",
+    "Placeholder": "Sort by"
+  },
+  "explore": {
+    "movies": "Explore Movies",
+    "tvshows": "Explore TV Shows",
+    "placeholder": "Select genre"
+  },
+  "searchPage": {
+    "search": "Search",
+    "results": "results",
+    "result": "result",
+    "of": "of",
+    "notFound": "Sorry, Result Not Found!"
+  },
+  "notFoundPage": {
+    "errorNumber": "404",
+    "description": "OOPS, THE PAGE YOU ARE LOOKING FOR CAN'T BE FOUND!",
+    "btnBackHomePage": "Return To Homepage"
+  }
+}
